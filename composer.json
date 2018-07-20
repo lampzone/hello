@@ -1,0 +1,17 @@
+{
+    "name": "hello123/hello",
+    "description": "echo hello world",
+    "authors": [
+        {
+            "name": "hello123"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
