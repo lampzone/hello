@@ -1,9 +1,9 @@
 {
-    "name": "hello123/hello",
+    "name": "hello_20180720/hello",
     "description": "echo hello world",
     "authors": [
         {
-            "name": "hello123"
+            "name": "hello_20180720"
         }
     ],
     "require": {},
